@@ -33,7 +33,6 @@ import cv2
 import numpy as np
 from scipy.spatial import KDTree
 
-from utils import *
 
 class Cell:
     def __init__(self, x1, y1, x2, y2):
